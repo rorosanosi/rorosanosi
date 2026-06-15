@@ -33,5 +33,5 @@ Beyond my academic studies, I have experience developing core audio-processing a
 
 ### Connect with Me 
 
-* 💼 [LinkedIn]((https://www.linkedin.com/in/raghads4n4s1/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/raghads4n4s1/)
 * 📧 [Email Address](mailto:sanosiraghad@gmail.com)
